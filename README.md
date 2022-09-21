@@ -2,7 +2,7 @@
 
 ## About The Project
 
-[ReactTaskApp](https://eniola-task-app.vercel.app/) is a basic project app that allows users to add and delete tasks they want to work on.
+[ReactTaskApp](https://eniola-task-app.vercel.app/) is a basic project app that allows users to add task they want to work on and delete tasks by just clicking on the specific task they want to delete.
 
 ## Requirement
 
@@ -26,4 +26,5 @@ to see the project [click me](https://eniola-task-app.vercel.app/)
 ## Contact
 
 Eniola Ademola - [@tweet me](https://twitter.com/_daveworld) - it.eniolaademola@gmail.com 
-Project Link: [EniolaAdemola/ReactTaskApp](https://github.com/EniolaAdemola/ReactTaskApp)
+
+Github Repo: [EniolaAdemola/ReactTaskApp](https://github.com/EniolaAdemola/ReactTaskApp)
